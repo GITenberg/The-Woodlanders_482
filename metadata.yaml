@@ -1,0 +1,39 @@
+_repo: The-Woodlanders_482
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: "The Woodlanders is a novel by Thomas Hardy. It was serialised from May\
+  \ 1886 to April 1887 in Macmillan's Magazine and published in three volumes in 1887.\
+  \ It is one of his series of Wessex novels.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '482'
+  wikidata: Q2254480
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Pastoral fiction'
+- !lcsh 'Forests and forestry -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Dorset (England) -- Fiction'
+- !lcsh 'Arranged marriage -- Fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: The Woodlanders
+url: http://www.gutenberg.org/ebooks/482
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%A3%D9%87%D9%84_%D8%A7%D9%84%D8%BA%D8%A7%D8%A8%D8%A7%D8%AA
+- https://nl.wikipedia.org/wiki/The_Woodlanders
+- https://en.wikipedia.org/wiki/The_Woodlanders
