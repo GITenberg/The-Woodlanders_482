@@ -1,5 +1,8 @@
 _repo: The-Woodlanders_482
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hardy, Thomas
@@ -11,6 +14,8 @@ creator:
 description: "The Woodlanders is a novel by Thomas Hardy. It was serialised from May\
   \ 1886 to April 1887 in Macmillan's Magazine and published in three volumes in 1887.\
   \ It is one of his series of Wessex novels.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/482#The-Woodlanders
 gutenberg_issued: '1996-04-01'
 gutenberg_type: Text
 identifiers:
