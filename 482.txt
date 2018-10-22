@@ -819,7 +819,7 @@ Her heart swelled, and she could not speak.  At length she managed to
 groan, looking on the ground, "I've made myself ugly--and
 hateful--that's what I've done!"
 
-"No, no," he answered.  "You've only cut your hair--I see now.
+"No, no," he answered.  "You've only cut your hair--I see now."
 
 "Then why must you needs say that about apples and gate-posts?"
 
@@ -1196,7 +1196,7 @@ without fail, every time hitherto.  It has been a great pleasure to
 drive into Sherton, and wait and see her arrive; and perhaps she'll be
 disappointed if I stay away."
 
-"Yon may be disappointed, but I don't think she will, if you send
+"You may be disappointed, but I don't think she will, if you send
 Giles," said Mrs. Melbury, dryly.
 
 "Very well--I'll send him."
@@ -1740,7 +1740,7 @@ bespoke, he whipped on the horse.  This it was which had brought the
 nose of Mr. Melbury's old gray close to the back of Mrs. Charmond's
 much-eclipsing vehicle.
 
-"There's Marty South Sitting up with the coachman," said he, discerning
+"There's Marty South sitting up with the coachman," said he, discerning
 her by her dress.
 
 "Ah, poor Marty! I must ask her to come to see me this very evening.
@@ -2677,7 +2677,7 @@ head a little longer, Miss Grace Melbury?"
 AND THE PEOPLE IN IT, fifty times better than all the Continent.  But
 the scheme; I think it an enchanting notion, don't you, Giles?"
 
-"It is well enough in one sense, but it will take yon away," said he,
+"It is well enough in one sense, but it will take you away," said he,
 mollified.
 
 "Only for a short time.  We should return in May."
@@ -2956,7 +2956,7 @@ called Creedle; but he felt that the Fates were against him.
 
 CHAPTER X.
 
-Supper-time came, and with it the hot-baked from the oven, laid on a
+Supper-time came, and with it the hot-baked meats from the oven, laid on a
 snowy cloth fresh from the press, and reticulated with folds, as in
 Flemish "Last Suppers."  Creedle and the boy fetched and carried with
 amazing alacrity, the latter, to mollify his superior and make things
@@ -4100,7 +4100,7 @@ us, like 'the sword of the Lord and of Gideon.'"
 
 "Oh--you've had the doctor?"
 
-"I didn't send for him Mrs. Charmond, before she left, heard that
+"I didn't send for him. Mrs. Charmond, before she left, heard that
 father was ill, and told him to attend him at her expense."
 
 "That was very good of her.  And he says it ought to be cut down. We
@@ -4587,7 +4587,7 @@ manorial residence appertaining to the snug and modest domain of Little
 Hintock, of which the boundaries were now lost by its absorption with
 others of its kind into the adjoining estate of Mrs. Charmond.  Though
 the Melburys themselves were unaware of the fact, there was every
-reason to believe--at least so the parson said that the owners of that
+reason to believe--at least so the parson said--that the owners of that
 little manor had been Melbury's own ancestors, the family name
 occurring in numerous documents relating to transfers of land about the
 time of the civil wars.
@@ -4954,7 +4954,7 @@ holy cross, as South died of his trouble."
 more of it."
 
  "'Ch have done it once already, miss.  But he laughed cruel like.
-'Yours is such a fine brain, Grammer, 'er said, 'that science couldn't
+'Yours is such a fine brain, Grammer,' 'er said, 'that science couldn't
 afford to lose you.  Besides, you've taken my money.'...Don't let your
 father know of this, please, on no account whatever!"
 
@@ -4989,7 +4989,7 @@ a poor old woman's skellington from a heathen doctor instead of a
 Christian grave, I would do it, and be glad to.  But nobody will do
 anything for a poor old familiar friend but push her out of the way."
 
-You are very ungrateful, Grammer, to say that.  But you are ill, I
+"You are very ungrateful, Grammer, to say that.  But you are ill, I
 know, and that's why you speak so.  Now believe me, you are not going
 to die yet.  Remember you told me yourself that you meant to keep him
 waiting many a year."
@@ -5037,7 +5037,7 @@ meeting, there was not much to deplore in her having to meet him now.
 
 But, as need hardly be said, Miss Melbury's view of the doctor as a
 merciless, unwavering, irresistible scientist was not quite in
-accordance with fact.  The real Dr. Fitzpiers w as a man of too many
+accordance with fact.  The real Dr. Fitzpiers was a man of too many
 hobbies to show likelihood of rising to any great eminence in the
 profession he had chosen, or even to acquire any wide practice in the
 rural district he had marked out as his field of survey for the
@@ -5654,7 +5654,7 @@ style; hence the local saying, "On New-year's tide, a cock's stride."
 
 It was a pleasant time.  The smoke from the little fire of peeled
 sticks rose between the sitters and the sunlight, and behind its blue
-veil stretched the naked arms of the prostrate trees The smell of the
+veil stretched the naked arms of the prostrate trees. The smell of the
 uncovered sap mingled with the smell of the burning wood, and the
 sticky inner surface of the scattered bark glistened as it revealed its
 pale madder hues to the eye.  Melbury was so highly satisfied at having
@@ -6901,7 +6901,7 @@ father followed her.
 said, troubled to the verge of despair.  "It is not Giles, it is Mr.
 Fitzpiers."
 
-"You've had a tiff--a lovers' tiff--that's all, I suppose
+"You've had a tiff--a lovers' tiff--that's all, I suppose!"
 
 "It is some woman--"
 
@@ -7385,7 +7385,7 @@ with his former landlady.
 weariness.
 
 She was a little soured at losing by his marriage so profitable a
-tenant as the surgeon had proved to be duling his residence under her
+tenant as the surgeon had proved to be during his residence under her
 roof; and the more so in there being hardly the remotest chance of her
 getting such another settler in the Hintock solitudes.  "'Tis what I
 don't wish to repeat, sir; least of all to you," she mumbled.
@@ -7870,7 +7870,7 @@ disappointment.
 "But you did, perhaps," she added, innocently fishing for a compliment.
 
 "Oh yes--you may depend upon that!" replied he, warmly, though scarcely
-thinking of what he was saving, so vividly was there present to his
+thinking of what he was saying, so vividly was there present to his
 mind the personality of Mrs. Charmond.
 
 
@@ -8119,7 +8119,6 @@ behind forever, with your pretty wife on your arm?"
 "I have refused the opportunity.  I love this place too well to depart."
 
 "You HAVE?" she said, regarding him with wild uncertainty.
-
 "Why do you ruin yourself in that way?  Great Heaven, what have I done!"
 
 "Nothing.  Besides, you are going away."
@@ -9040,8 +9039,8 @@ child."
 He unfastened the door in the ivy-laced wall, and waited.  This
 apparent indifference alarmed him.  He would far rather that she had
 rushed in all the fire of jealousy to Hintock House, regardless of
-conventionality, confronted and attacked Felice Charmond unguibus et
-rostro, and accused her even in exaggerated shape of stealing away her
+conventionality, confronted and attacked Felice Charmond _unguibus et
+rostro_, and accused her even in exaggerated shape of stealing away her
 husband.  Such a storm might have cleared the air.
 
 She emerged in a minute or two, and they went inside together. "You
@@ -13143,6 +13142,8 @@ Marty said no more, but knelt over Winterborne from the other side.
 
 "Did you meet my hus--Mr. Fitzpiers?"
 
+"No!"
+
 "Then what brought you here?"
 
 "I come this way sometimes.  I have got to go to the farther side of
@@ -14699,7 +14700,7 @@ or anything!"
 
 
 
-CHAPTER XLVIII
+CHAPTER XLVIII.
 
 All the evening Melbury had been coming to his door, saying, "I wonder
 where in the world that girl is! Never in all my born days did I know
